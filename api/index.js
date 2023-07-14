@@ -19,7 +19,6 @@ app.use(express.json());
 app.use(cookieParser());
 app.use('/uploads',express.static('uploads'));
 const mongoUrl = process.env.MONGO_URL;
-console.log(mongoUrl);
 mongoose.connect(mongoUrl);
 app.post('/register', async (req, res) => {
   const { username, password } = req.body;
