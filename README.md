@@ -35,7 +35,7 @@ This project is a dynamic Fullstack Blog App called Collegemate. It allows users
 
 ## Credits
 
-- Developer: [Your Name](https://github.com/yourusername)
+- Developer: [Your Name](https://github.com/praathampatel)
 
 ## License
 
