@@ -1,4 +1,5 @@
 # Project Title
+COLLEGEMATE
 
 ## Description
 
